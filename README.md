@@ -3,6 +3,7 @@
 🎓 Computer Science - Cybersecurity student at **RV College Of Engineering** </br>
 🌐 I work on **web development and ml projects** to stay consistent </br>
 💭 Pronouns: She/her</br>
+✉️ Contact: akshayasannapureddy@gmail.com</br>
 
 ---
 
