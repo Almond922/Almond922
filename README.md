@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Akshaya ✨
 
-🎓 Computer Science - Cybersecurity student at **RV College Of Engineering**  
-🌐 I work on **web development and ml projects** to stay consistent 
-💭 Pronouns: She/her
+🎓 Computer Science - Cybersecurity student at **RV College Of Engineering** </br>
+🌐 I work on **web development and ml projects** to stay consistent </br>
+💭 Pronouns: She/her</br>
 
 ---
 
