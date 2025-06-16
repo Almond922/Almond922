@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Akshaya ✨
 
 🎓 Computer Science - Cybersecurity student at **RV College Of Engineering**  
-🌐 I work on **web development projects** to stay consistent and curious  
+🌐 I work on **web development projects** to stay consistent 
 
 ---
 
